@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1621479214 source:/home/fernando/Documentos/Codeblocks- Proyects/Tp1_partDos/Act3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<ctype.h>
+
+1622585063 source:/home/fernando/BELTRAN/PROGRAMACION/TPs/Tp1_partDos/Act3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<ctype.h>
+

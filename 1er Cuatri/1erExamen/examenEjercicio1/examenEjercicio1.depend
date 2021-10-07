@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625009293 source:/home/fernando/2_MY_/BELTRAN/PROGRAMACION/TPs/1erExamen/examenEjercicio1/main.c
+	<stdio.h>
+	<stdlib.h>
+

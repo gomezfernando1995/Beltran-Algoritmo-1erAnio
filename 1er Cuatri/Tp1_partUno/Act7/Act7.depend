@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621396349 source:/home/fernando/Documentos/Codeblocks- Proyects/Act7/main.c
+	<stdio.h>
+	<stdlib.h>
+

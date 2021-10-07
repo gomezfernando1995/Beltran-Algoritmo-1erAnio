@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632364255 source:c:\users\elfer\onedrive\documents\-\beltran\algoritmo\2do cuatri\tp5_matrices2\act3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

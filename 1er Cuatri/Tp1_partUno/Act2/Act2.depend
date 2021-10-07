@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621390603 source:/home/fernando/Documentos/Codeblocks- Proyects/Act2/main.c
+	<stdio.h>
+	<stdlib.h>
+

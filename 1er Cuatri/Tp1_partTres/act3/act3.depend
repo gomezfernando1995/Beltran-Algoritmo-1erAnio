@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623007772 source:/home/fernando/BELTRAN/PROGRAMACION/TPs/Tp1_partTres/act1/act3/main.c
+	<stdio.h>
+	<stdlib.h>
+

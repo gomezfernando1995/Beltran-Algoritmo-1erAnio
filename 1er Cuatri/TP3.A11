@@ -1,0 +1,35 @@
+//1. Para entrar a la montaña rusa Infierno en las alturas se requiere tener al menos 7 años 
+//	y medir más de 1,50 metros. Completá el siguiente cuadro a mano según los requisitos y 
+//	luego escribí el programa que permita, ejecutándolo cada vez para cada niño y según las edades y 
+//	estaturas ingresadas por el usuario, obtener los mismos resultados para los siguientes datos: 
+//		
+
+Algoritmo E11
+	Definir nombre Como Caracter;
+	Definir edad,cuantaEdad,contador Como Entero;
+	Definir altura Como Real;
+	
+	Escribir "Hola como te llamas?";
+	Leer  nombre;
+	Escribir "Escribe tu Edad ",nombre," :"
+	Leer edad;
+	cuantaEdad <- edad;
+	Escribir "Ahora tu altura : ";
+	Leer altura;
+	
+	si (edad>=7 Y altura>1.50) Entonces
+		escribir"Bienvenido a la montaña rusa Infierno, ",nombre;
+	SiNo
+		Mientras (cuantaEdad<7) Hacer
+			contador :=+1;
+			cuantaEdad <- contador; 
+		FinMientras
+			
+		 Escribir "Tenes ",edad," y te faltan ",contador," años para subir";
+		
+	FinSi
+	
+	
+	
+	
+FinAlgoritmo
