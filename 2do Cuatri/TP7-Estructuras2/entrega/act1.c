@@ -4,6 +4,8 @@
 #include <ctype.h>
 #define TAM_AUTO 2
 /***************************************************************************************************************************************************************
+						------>	GOMEZ FERNANDO GABRIEL- DNI: 39387109<--------
+
 1.	 Utilizando estructuras, crear un programa que permita almacenar la siguiente información de dueños de automóviles Automóviles
                                         Nombre	DNI	Patente	Año	Marca	Modelo	Kilometraje
                                         Oliver	35757100	AAA000	2007	Honda	Fit	56000
