@@ -58,7 +58,7 @@ void pCargaDeDatos(sPaciente arrayPacientes[],int tam);
 
 int main()
 {
-    int tam=20;
+    int tam=2;
     float auxDni;
     char buscarLocalidad[100];
     sPaciente arrayPacientes[tam];

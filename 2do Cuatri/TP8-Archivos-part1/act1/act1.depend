@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1634524356 source:c:\users\elfer\onedrive\documents\-\beltran\algoritmo\beltran-algoritmo-1eranio\2do cuatri\tp8-archivos-part1\act1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1634528730 source:c:\users\elfer\onedrive\documents\-\beltran\algoritmo\2do cuatri\tp8-archivos-part1\act1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
