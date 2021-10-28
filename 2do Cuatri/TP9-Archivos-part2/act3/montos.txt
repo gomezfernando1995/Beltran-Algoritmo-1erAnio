@@ -1,4 +1,0 @@
-
- Numero : 20    ....Total: 20   ... Promedio: 20.0
- Numero : 20    ....Total: 40   ... Promedio: 20.0
- Numero : 20    ....Total: 60   ... Promedio: 20.0
