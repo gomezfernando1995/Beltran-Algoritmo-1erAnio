@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635899777 source:c:\users\elfer\onedrive\documents\-\examen\segundoparcial_act1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
