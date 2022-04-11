@@ -1,2 +1,2 @@
 # Beltran-Algoritmo-1erAnio
-Ejercicios dados  en primero año en el instituto Beltrán.
+Ejercicios 2021 --> Instituto Beltran | Analista de sistema | Algoritmo I | Programacion en C
